@@ -9,7 +9,7 @@ A curated collection of essential, free & open-source Android applications avail
 <br>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Apps](https://img.shields.io/badge/apps-88-brightgreen)
+![Apps](https://img.shields.io/badge/apps-108-brightgreen)
 ![License](https://img.shields.io/badge/license-CC0--1.0-blue)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-orange)
 ![F-Droid](https://img.shields.io/badge/F--Droid-1976D2?logo=f-droid&logoColor=white)
