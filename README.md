@@ -25,7 +25,7 @@ The word *robota* — Czech for drudgery and forced labour — is the root from 
 Every application here is:
 
 - ✅ **Free & Open Source** — inspect it, fork it, trust it
-- ✅ **Available via F-Droid or IzzyOnDroid** — no Google Play Store required
+- ✅ **Available via F-Droid, IzzyOnDroid, or project's own F-Droid repo** — no Google Play Store required
 - ✅ **Selected on merit** — the finest tool available for each purpose
 - ✅ **Respectful of your privacy** — no dark patterns, no telemetry, no surveillance
 
@@ -78,6 +78,8 @@ Consider replacing the default F-Droid client with **[Neo Store](https://f-droid
 - **[Aurora Store](https://f-droid.org/packages/com.aurora.store/)** — Access the Google Play Store anonymously, without a Google account, and install or update apps freely. `F-Droid`
 
 - **[Neo Store](https://f-droid.org/packages/com.machiav3lli.fdroid/)** — A modern, Material You-styled F-Droid client with faster indexing, better repository management, and a far superior browsing experience to the default client. *Recommended as your primary F-Droid client.* `F-Droid`
+
+- **[Obtainium](https://f-droid.org/packages/dev.imranr.obtainium.fdroid/)** — Obtainium allows you to install and update Apps directly from their releases pages, and receive notifications when new releases are made available. `F-Droid`
 
 ---
 
@@ -141,6 +143,8 @@ Consider replacing the default F-Droid client with **[Neo Store](https://f-droid
 
 - **[Fossify Phone](https://f-droid.org/packages/org.fossify.phone/)** — A dialer and call manager that replaces your stock phone app without any of the associated data collection. Part of the Fossify suite. `F-Droid`
 
+- **[SpamBlocker](https://f-droid.org/en/packages/spam.blocker/)** — It blocks unwanted calls & SMS messages without replacing your default call/SMS app. `F-Droid`
+
 ---
 
 ## 📷 Camera
@@ -158,6 +162,16 @@ Consider replacing the default F-Droid client with **[Neo Store](https://f-droid
 - **[KDE Connect](https://f-droid.org/packages/org.kde.kdeconnect_tp/)** — Seamless integration between your Android device and your desktop (Linux, Windows, macOS). Share clipboard, transfer files, mirror notifications, control media playback, and use your phone as a remote — all over your local network, no cloud required. Complements LocalSend without duplicating it. `F-Droid`
 
 - **[LocalSend](https://f-droid.org/packages/org.localsend.localsend_app/)** — Share files and text between nearby devices over your local network with no internet connection, no account, and no third-party server. Cross-platform: Android, iOS, Windows, macOS, Linux. `F-Droid`
+
+---
+
+## 🎨 Creativity
+
+> *Make something.*
+
+- **[OMGSoundboard](https://f-droid.org/en/packages/audio.omgsoundboard/)** — OMGSoundboard allows you to create your own unique soundboards. `F-Droid`
+
+- **[Pocket Paint](https://f-droid.org/packages/org.catrobat.paintroid/)** — A capable pixel art and drawing application with layers, fill tools, brushes, and export to PNG and JPG. The official image editor of the Catrobat creative toolkit. `F-Droid`
 
 ---
 
@@ -203,7 +217,11 @@ Consider replacing the default F-Droid client with **[Neo Store](https://f-droid
 
 > *Your correspondence, in your custody.*
 
+- **[Delta Chat](https://f-droid.org/en/packages/com.b44t.messenger/)** — Delta Chat is an email based decentralized instant messenger that is easy and fun to use for friends, family, groups and organizations. `F-Droid`
+
 - **[FairEmail](https://apt.izzysoft.de/fdroid/index/apk/eu.faircode.email)** — A deeply privacy-conscious, fully featured email client supporting IMAP, POP3, and SMTP across unlimited accounts. Open tracking protection, encryption via OpenKeychain, and meticulous attention to security. One of the most thoughtfully built email clients on any platform. `IzzyOnDroid`
+
+- **[Thunderbird](https://f-droid.org/en/packages/net.thunderbird.android/)** — Thunderbird is a powerful, privacy-focused email app. Effortlessly manage multiple email accounts from one app, with a Unified Inbox option for maximum productivity. `F-Droid`
 
 ---
 
@@ -217,6 +235,8 @@ Consider replacing the default F-Droid client with **[Neo Store](https://f-droid
 
 - **[NewPipe](https://f-droid.org/packages/org.schabi.newpipe/)** — Watch YouTube, PeerTube, SoundCloud, Bandcamp, and more without any Google account, ads, or tracking. Download videos and audio, subscribe to channels, and manage feeds entirely offline. A crown jewel of the FOSS Android ecosystem. `F-Droid`
 
+- **[Noted](https://apt.izzysoft.de/fdroid/index/apk/com.app.noted)** — Noted is your all-in-one entertainment tracker for movies, TV series, books, and games. Organize your entertainment journey with todo and finished lists, and experience our unique monthly rollover that moves completed items to history while letting you carry over unfinished ones. `IzzyOnDroid`
+
 - **[Transistor](https://f-droid.org/packages/org.y20k.transistor/)** — A clean, minimal internet radio app. Add stations by URL or search for them, and listen without fuss. `F-Droid`
 
 ---
@@ -225,7 +245,7 @@ Consider replacing the default F-Droid client with **[Neo Store](https://f-droid
 
 > *Your money, your ledger, your sovereignty.*
 
-- **[Cake Wallet](https://github.com/cake-tech/cake_wallet)** — A multi-currency, non-custodial cryptocurrency wallet with a strong emphasis on privacy. Supports Monero, Bitcoin, Ethereum, Litecoin, and more. Your keys never leave your device. Add Cake Wallet's F-Droid repo, `https://fdroid.link/#https://fdroid.cakelabs.com/repo?fingerprint=EA44EFAEE0B641EE7A032D397D5D976F9C4E5E1ED26E11C75702D064E55F8755`, to the F-Droid client of your choice. `Own Repo`
+- **[Cake Wallet](https://github.com/cake-tech/cake_wallet)** — A multi-currency, non-custodial cryptocurrency wallet with a strong emphasis on privacy. Supports Monero, Bitcoin, Ethereum, Litecoin, and more. Your keys never leave your device. Add Cake Wallet's F-Droid repo, `https://fdroid.cakelabs.com/repo?fingerprint=EA44EFAEE0B641EE7A032D397D5D976F9C4E5E1ED26E11C75702D064E55F8755`, to the F-Droid client of your choice. `Own Repo`
 
 - **[Money Manager Ex](https://f-droid.org/packages/com.money.manager.ex/)** — A fully-featured personal finance manager. Track income, expenses, budgets, and accounts across multiple currencies. Compatible with the desktop Money Manager Ex application for cross-device use. `F-Droid`
 
@@ -235,9 +255,23 @@ Consider replacing the default F-Droid client with **[Neo Store](https://f-droid
 
 > *Your body's data belongs to your body.*
 
+- **[Energize](https://f-droid.org/packages/com.flasskamp.energize/)** — Track your food including calories, macro, and micro nutrients. `F-Droid`
+
+- **[Hidroly](https://f-droid.org/en/packages/com.om1cael.hidroly/)** — Hidroly is a minimalist and powerful hydration tracker designed to help you meet your daily water goals without distractions. `F-Droid`
+
+- **[Home Medkit](https://f-droid.org/en/packages/ru.application.homemedkit/)** — This application provides the ability to monitor the expiration dates of medicines, schedule their intake and receive reminders. `F-Droid`
+
 - **[Loop Habit Tracker](https://f-droid.org/packages/org.isoron.uhabits/)** — The definitive FOSS habit tracker on Android. Minimal, reliable, and elegantly designed. Track streaks, view long-term statistics, and build the routines that matter. `F-Droid`
 
+- **[MediLog](https://f-droid.org/en/packages/com.zell_mbc.medilog.fdroid/)** — Privacy respecting logging of blood pressure, oxygen, glucose, temperature, weight, fluid intake, as well as a simple diary. `F-Droid`
+
+- **[Mensinator](https://f-droid.org/en/packages/com.mensinator.app/)** — Mensinator provides a clean and intuitive interface for tracking your menstrual cycle, monitoring your periods, and viewing essential statistics—all without the need for sign-ups or sharing personal data. `F-Droid`
+
+- **[OpenFoodFacts](https://f-droid.org/en/packages/openfoodfacts.github.scrachx.openfood/)** — Scan food products or their barcode to obtain data on ingredients, additives, allergens, nutrition facts, and more. `F-Droid`
+
 - **[OpenTracks](https://f-droid.org/packages/de.dennisguse.opentracks/)** — Record your outdoor activities — running, cycling, hiking, skiing — with GPS tracking, distance, speed, and elevation data. Entirely offline, no account, no cloud, no data harvesting. `F-Droid`
+
+- **[Quitter](https://f-droid.org/en/packages/com.quitter.app/)** — Quitter helps you quit smoking, vaping, alcohol, drugs, adult content, social media, and more — with research-backed health milestones that show exactly what's happening in your body as you recover.
 
 ---
 
@@ -333,17 +367,12 @@ Consider replacing the default F-Droid client with **[Neo Store](https://f-droid
 
 - **[Librera Reader](https://f-droid.org/packages/com.foobnix.pro.pdf.reader/)** — A comprehensive document and ebook reader supporting PDF, EPUB, MOBI, FB2, DjVu, CBZ, CBR, and more. One app for your entire reading library. `F-Droid`
 
-- **[Markor](https://f-droid.org/packages/net.gsantner.markor/)** — A Markdown text editor with a live preview, to-do list support, journal mode, and a thoughtfully designed writing experience. Supports plain text, Markdown, and WikiText. Your ideas deserve a proper home. `F-Droid`
+- **[Markor (No Synchronization)](https://f-droid.org/packages/net.gsantner.markor/)** — A Markdown text editor with a live preview, to-do list support, journal mode, and a thoughtfully designed writing experience. Supports plain text, Markdown, and WikiText. Your ideas deserve a proper home. `F-Droid`
+
+- **[SilentNotes (Synchronization Available)](https://apt.izzysoft.de/fdroid/index/apk/ch.martinstoeckli.silentnotes)** — SilentNotes is a note taking app with optional end-to-end encrypted sync to your PC. Write your notes in a comfortable WYSIWYG editor with basic formatting like headers or lists, and synchronize them end-to-end encrypted between Android and Windows devices. `IzzyOnDroid`
 
 ---
 
-## 🎨 Creativity
-
-> *Make something.*
-
-- **[Pocket Paint](https://f-droid.org/packages/org.catrobat.paintroid/)** — A capable pixel art and drawing application with layers, fill tools, brushes, and export to PNG and JPG. The official image editor of the Catrobat creative toolkit. `F-Droid`
-
----
 
 ## 🔒 Security & Privacy
 
@@ -363,6 +392,8 @@ Consider replacing the default F-Droid client with **[Neo Store](https://f-droid
 
 - **[CPU Info](https://f-droid.org/packages/com.kgurgul.cpuinfo/)** — Monitor your device's hardware vitals in real time: CPU frequency, core temperatures, RAM usage, battery health, GPU information, and sensor readings. Essential companion to the network and security tools on this list. `F-Droid`
 
+- **[FMD](https://f-droid.org/en/packages/de.nulide.findmydevice/)** — Locate and control your device remotely. ⚠️ *Power-user tool. User needs to self-host an instance of FMD Server.* `F-Droid`
+
 - **[SD Maid SE](https://f-droid.org/en/packages/eu.darken.sdmse/)** — A thorough system cleaner that finds and removes orphaned files, leftover data from uninstalled apps, duplicate files, and storage waste. The most capable FOSS storage cleaner available. `F-Droid`
 
 ---
@@ -372,6 +403,10 @@ Consider replacing the default F-Droid client with **[Neo Store](https://f-droid
 > *Your goals, your system, your discipline.*
 
 - **[Loop Habit Tracker](https://f-droid.org/packages/org.isoron.uhabits/)** — *(See [Fitness & Health](#-fitness--health))*
+
+- **[Plees Tracker](https://f-droid.org/en/packages/hu.vmiklos.plees_tracker/)** —  Plees Tracker is a simple sleep tracker for your Android phone. `F-Droid`
+
+- **[Reef](https://apt.izzysoft.de/fdroid/index/apk/dev.pranav.reef)** — Reef is an app to help you reclaim your focus and build healthier digital habits. Block distracting apps, track your screen time with detailed analytics, and use proven productivity techniques like Pomodoro. `IzzyOnDroid`
 
 - **[Super Productivity](https://f-droid.org/en/packages/com.superproductivity.superproductivity/)** — A beautiful, feature-complete to-do and time-tracking application. Supports projects, tags, work summaries, Pomodoro timers, and syncs with JIRA and GitHub. One of the most thoughtfully designed productivity tools on Android. `F-Droid`
 
@@ -389,15 +424,21 @@ Consider replacing the default F-Droid client with **[Neo Store](https://f-droid
 
 - **[Document Scanner](https://apt.izzysoft.de/fdroid/index/apk/com.akylas.documentscanner)** — Scan physical documents using your camera, apply perspective correction, and export to PDF or image formats. `IzzyOnDroid`
 
+- **[FadCam](https://f-droid.org/en/packages/com.fadcam/)** — Background video recorder, screen recorder and remote camera control. `F-Droid`
+
 - **[Gadgetbridge](https://f-droid.org/packages/nodomain.freeyourgadget.gadgetbridge/)** — Replaces the proprietary companion apps for dozens of smartwatches and fitness bands (Fitbit, Pebble, Amazfit, Garmin, Xiaomi, and more). Sync activity, receive notifications, and control your wearable without any manufacturer cloud account. `F-Droid`
 
 - **[Image Pipe](https://f-droid.org/packages/de.kaffeemitkoffein.imagepipe/)** — Strip EXIF metadata and reduce the file size of images before sharing them. An essential privacy tool that removes GPS coordinates, device information, and timestamps from your photos in seconds. `F-Droid`
 
 - **[Image Toolbox](https://f-droid.org/en/packages/ru.tech.imageresizershrinker/)** — A comprehensive image utility suite: resize, crop, convert, compress, rotate, apply filters, remove backgrounds, and more — all locally, with no cloud processing. `F-Droid`
 
+- **[Key Mapper](https://f-droid.org/en/packages/io.github.sds100.keymapper/)** —  Make shortcuts for anything. Remap volume, power, keyboard, or floating buttons. Make custom macros on your keyboard or gamepad, make on-screen buttons in any app, and unlock new functionality from your volume buttons. `F-Droid`
+
 - **[Open Calculator](https://f-droid.org/packages/com.darkempire78.opencalculator/)** — A clean, Material Design calculator with standard and scientific modes, and a history function. `F-Droid`
 
 - **[Paperize](https://f-droid.org/en/packages/com.anthonyla.paperize/)** — An automated wallpaper changer that rotates through your chosen albums on a schedule. Thoughtfully designed with a beautiful interface. `F-Droid`
+
+- **[Screenshot Tile](https://f-droid.org/en/packages/com.github.cvzi.screenshottile/)** — Screenshot Tile for Android without Root. It adds a button/tile to the quick settings panel to take screenshots. `F-Droid`
 
 - **[URL Checker](https://f-droid.org/packages/com.trianguloy.urlchecker/)** — Inspect and clean URLs before opening them. Strips tracking parameters, resolves redirects, and lets you choose which app opens a link — essential protection against link-based tracking. `F-Droid`
 
@@ -436,18 +477,28 @@ Consider replacing the default F-Droid client with **[Neo Store](https://f-droid
 Contributions are warmly welcomed. If you know of an app that:
 
 - Is free and open source
-- Is available on F-Droid or IzzyOnDroid
+- Is available on F-Droid, IzzyOnDroid, or project's own F-Droid repo
 - Fills a genuine gap or is demonstrably superior to an existing entry
 
-Please open an **Issue** to discuss it or submit a **Pull Request** directly. All contributions are reviewed for quality, philosophy, and fit.
+Please open an **Issue** to discuss it or submit a **Pull Request** directly. All contributions are reviewed for quality, philosophy, and fit. Messaging, social media, and gaming apps are intentionally not included because there are just too many of them out there, and this list is not designed to be a be-all, end-all list of everything open source, but if you are curious, we suggest you try **[Session](https://fdroid.getsession.org/)** or **[SimpleX Chat](https://f-droid.org/en/packages/chat.simplex.app/)** for messaging and **[Mastodon](https://f-droid.org/en/packages/org.joinmastodon.android/)** or **[Bluesky](https://bsky.app/)** for social media. Honestly, our knowledge of games is ridiculously little, but why don't you try **[Lichess](https://f-droid.org/en/packages/org.lichess.mobileV2/)**, **[Pixel Wheels](https://f-droid.org/en/packages/com.agateau.tinywheels.android/)**, or **[Unciv](https://f-droid.org/en/packages/com.unciv.app/)**?
 
 ---
 
 ## ⚠️ Disclaimer
 
-App availability on F-Droid and IzzyOnDroid can change over time. All links in this document were verified at the time of writing but should be checked if you encounter a broken link. If you find one, please open an issue — it will be fixed promptly.
+App availability on F-Droid and IzzyOnDroid can change over time. All links in this document were verified at the time of writing but should be checked if you encounter a broken link. If you find one, please open an issue — it will be fixed promptly. If one of the apps on the list is discontinued, please let us know, and we'll find an alternative for it under active development.
 
 Apps marked **IzzyOnDroid** require the IzzyOnDroid repository to be added to your F-Droid client. See [Getting Started](#-getting-started) for setup instructions.
+
+---
+
+## 🙏 Support
+
+If you like `pmrp-ng`, please consider supporting it, even the smallest contribution goes a long way. It is quick & easy via PayPal, Buy Me a Coffee or Liberapay:  
+
+[![Support via PayPal](https://img.shields.io/badge/PayPal-003087?logo=paypal&logoColor=fff)](https://paypal.me/hakerdefo)  
+[!["Buy Me A Coffee"](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/hakerdefo)  
+[![Support via Liberapay](https://img.shields.io/badge/Liberapay-F6C915?logo=liberapay&logoColor=black)](https://liberapay.com/hakerdefo/donate)  
 
 ---
 
@@ -459,7 +510,7 @@ This list is released under the [Creative Commons Zero v1.0 Universal](LICENSE) 
 
 <div align="center">
 
-*"The question is not whether machines will think, but whether men will."*
+*"The question is not whether machines will think, but whether men will."*  
 — Alan Turing
 
 **Made with ❤️ for every Android user who believes their device should serve them.**
