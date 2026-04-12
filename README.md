@@ -494,7 +494,7 @@ Apps marked **IzzyOnDroid** require the IzzyOnDroid repository to be added to yo
 
 ## 🙏 Support
 
-If you like `pmrp-ng`, please consider supporting it, even the smallest contribution goes a long way. It is quick & easy via PayPal, Buy Me a Coffee or Liberapay:  
+If you like `Robota Liberated`, please consider supporting it, even the smallest contribution goes a long way. It is quick & easy via PayPal, Buy Me a Coffee or Liberapay:  
 
 [![Support via PayPal](https://img.shields.io/badge/PayPal-003087?logo=paypal&logoColor=fff)](https://paypal.me/hakerdefo)  
 [!["Buy Me A Coffee"](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/hakerdefo)  
