@@ -9,7 +9,7 @@ A curated collection of essential, free & open-source Android applications avail
 <br>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Apps](https://img.shields.io/badge/apps-108-brightgreen)
+![Apps](https://img.shields.io/badge/apps-109-brightgreen)
 ![License](https://img.shields.io/badge/license-CC0--1.0-blue)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-orange)
 ![F-Droid](https://img.shields.io/badge/F--Droid-1976D2?logo=f-droid&logoColor=white)
@@ -50,24 +50,21 @@ Consider replacing the default F-Droid client with **[Neo Store](https://f-droid
 
 | | Category | | Category |
 |---|---|---|---|
-| 📱 | [App Stores & Management](#-app-stores--management) | 🗺️ | [Maps & Navigation](#️-maps--navigation) |
-| 🌌 | [Astronomy](#-astronomy) | 🎵 | [Media & Audio](#-media--audio) |
-| 🔐 | [Authentication & Encryption](#-authentication--encryption) | 🌐 | [Network Tools](#-network-tools) |
-| ☁️ | [Backup & Sync](#️-backup--sync) | 📝 | [Notes & Office](#-notes--office) |
-| 🌐 | [Browsers](#-browsers) | 🎨 | [Creativity](#-creativity) |
-| 📅 | [Calendar, Contacts & Dialer](#-calendar-contacts--dialer) | 🔒 | [Security & Privacy](#-security--privacy) |
-| 📷 | [Camera](#-camera) | ⚙️ | [System Tools](#️-system-tools) |
-| 🔗 | [Connectivity & Device Integration](#-connectivity--device-integration) | ✅ | [Tasks & Habits](#-tasks--habits) |
-| 💻 | [Development & Terminal](#-development--terminal) | 🔧 | [Utilities](#-utilities) |
-| 📥 | [Downloads & Torrents](#-downloads--torrents) | 🗣️ | [Voice & Language](#️-voice--language) |
-| 📚 | [Education & Reference](#-education--reference) | ⌚ | [Wearables](#-wearables) |
-| 📧 | [Email](#-email) | 🌤️ | [Weather](#️-weather) |
-| 🎬 | [Entertainment](#-entertainment) | | |
-| 💰 | [Finance & Crypto](#-finance--crypto) | | |
-| 🏃 | [Fitness & Health](#-fitness--health) | | |
-| 📁 | [File Management](#-file-management) | | |
-| ⌨️ | [Keyboards](#️-keyboards) | | |
-| 🚀 | [Launcher](#-launcher) | | |
+| 📱 | [App Stores & Management](#-app-stores--management) | 💰 | [Finance & Crypto](#-finance--crypto) |
+| 🌌 | [Astronomy](#-astronomy) | 🏃 | [Fitness & Health](#-fitness--health) |
+| 🔐 | [Authentication & Encryption](#-authentication--encryption) | ⌨️ | [Keyboards](#️-keyboards) |
+| ☁️ | [Backup & Sync](#️-backup--sync) | 🚀 | [Launcher](#-launcher) |
+| 🌐 | [Browsers](#-browsers) | 🗺️ | [Maps & Navigation](#️-maps--navigation) |
+| 📅 | [Calendar, Contacts & Dialer](#-calendar-contacts--dialer) | 🎵 | [Media & Audio](#-media--audio) |
+| 📷 | [Camera](#-camera) | 🌐 | [Network Tools](#-network-tools) |
+| 🔗 | [Connectivity & Device Integration](#-connectivity--device-integration) | 📝 | [Notes & Office](#-notes--office) |
+| 🎨 | [Creativity](#-creativity) | 🔒 | [Security & Privacy](#-security--privacy) |
+| 💻 | [Development & Terminal](#-development--terminal) | ⚙️ | [System Tools](#️-system-tools) |
+| 📥 | [Downloads & Torrents](#-downloads--torrents) | ✅ | [Tasks & Habits](#-tasks--habits) |
+| 📚 | [Education & Reference](#-education--reference) | 🔧 | [Utilities](#-utilities) |
+| 📧 | [Email](#-email) | 🗣️ | [Voice & Language](#️-voice--language) |
+| 🎬 | [Entertainment](#-entertainment) | ⌚ | [Wearables](#-wearables) |
+| 📁 | [File Management](#-file-management) | 🌤️ | [Weather](#️-weather) |
 
 ---
 
@@ -126,6 +123,8 @@ Consider replacing the default F-Droid client with **[Neo Store](https://f-droid
 - **[Cromite](https://github.com/uazo/cromite)** — A hardened Chromium fork with built-in ad blocking and anti-fingerprinting. The spiritual successor to the beloved Bromite. For those who need or prefer a Chromium engine. Add Cromite's F-Droid repo, `https://www.cromite.org/fdroid/repo/?fingerprint=49F37E74DEE483DCA2B991334FB5A0200787430D0B5F9A783DD5F13695E9517B`, to the official F-Droid client, or enable it in the Neo Store client. `Own Repo`
 
 - **[Fennec F-Droid](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/)** — Firefox for Android, rebuilt from source without proprietary telemetry and trackers. Supports extensions (uBlock Origin, etc.) — a feature no Chromium-based mobile browser currently matches. The reliable everyday browser for the widest site compatibility. `F-Droid`
+
+- **[IronFox](https://ironfoxoss.org/docs/installation/#f-droid)** — IronFox is a privacy- and security-oriented fork of the Mull browser, which in turn was based on Firefox. IronFox uses configs from Phoenix to harden and configure Gecko’s preferences. Add IronFox's F-Droid repo, `https://fdroid.ironfoxoss.org/fdroid/repo?fingerprint=C5E291B5A571F9C8CD9A9799C2C94E02EC9703948893F2CA756D67B94204F904`, to your F-Droid client. `Own Repo`
 
 ---
 
@@ -382,7 +381,7 @@ Consider replacing the default F-Droid client with **[Neo Store](https://f-droid
 
 - **[DroidFS](https://f-droid.org/packages/sushi.hardcore.droidfs/)** — Creates and opens encrypted virtual filesystems using gocryptfs or CryFS. Store sensitive files in an encrypted container on your device or in your cloud storage. ⚠️ *Power-user tool; some setup required.* `F-Droid`
 
-- **[WG Tunnel]()** — WG Tunnel is an alternative Android client for WireGuard and AmneziaWG, inspired by the official WireGuard Android app. It fills gaps in the official client by adding advanced features. Add WG Tunnel's F-Droid repo, `https://raw.githubusercontent.com/zaneschepke/fdroid/main/fdroid/repo?fingerprint=0890C5D44C0109E366801C39840325E810E21B270B9D2AEC53CE0D6C5FC849DB`, to the F-Droid client of your choice. `Own Repo`
+- **[WG Tunnel](https://github.com/wgtunnel/fdroid)** — WG Tunnel is an alternative Android client for WireGuard and AmneziaWG, inspired by the official WireGuard Android app. It fills gaps in the official client by adding advanced features. Add WG Tunnel's F-Droid repo, `https://raw.githubusercontent.com/zaneschepke/fdroid/main/fdroid/repo?fingerprint=0890C5D44C0109E366801C39840325E810E21B270B9D2AEC53CE0D6C5FC849DB`, to the F-Droid client of your choice. `Own Repo`
 
 ---
 
