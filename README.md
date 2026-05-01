@@ -9,7 +9,7 @@ A curated collection of essential, free & open-source Android applications avail
 <br>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Apps](https://img.shields.io/badge/apps-109-brightgreen)
+![Apps](https://img.shields.io/badge/apps-110-brightgreen)
 ![License](https://img.shields.io/badge/license-CC0--1.0-blue)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-orange)
 ![F-Droid](https://img.shields.io/badge/F--Droid-1976D2?logo=f-droid&logoColor=white)
@@ -42,7 +42,7 @@ Some apps on this list live in the [IzzyOnDroid](https://apt.izzysoft.de/fdroid/
 2. Add: `https://apt.izzysoft.de/fdroid/repo?fingerprint=3BF0D6ABFEAE2F401707B6D966BE743BF0EEE49C2561B9BA39073711F628937A`
 
 ### Step 3 — Upgrade Your F-Droid Client *(Recommended)*
-Consider replacing the default F-Droid client with **[Neo Store](https://f-droid.org/packages/com.machiav3lli.fdroid/)** for a dramatically better browsing and update experience.
+Consider replacing the default F-Droid client with **[Droid-ify](https://f-droid.org/en/packages/com.looker.droidify/)** for a dramatically better browsing and update experience.
 
 ---
 
@@ -74,7 +74,7 @@ Consider replacing the default F-Droid client with **[Neo Store](https://f-droid
 
 - **[Aurora Store](https://f-droid.org/packages/com.aurora.store/)** — Access the Google Play Store anonymously, without a Google account, and install or update apps freely. `F-Droid`
 
-- **[Neo Store](https://f-droid.org/packages/com.machiav3lli.fdroid/)** — A modern, Material You-styled F-Droid client with faster indexing, better repository management, and a far superior browsing experience to the default client. *Recommended as your primary F-Droid client.* `F-Droid`
+- **[Droid-ify](https://f-droid.org/en/packages/com.looker.droidify/)** — Droid-ify is a clutter-free and minimal F-Droid client designed for simplicity and performance. *Recommended as your primary F-Droid client.* `F-Droid`
 
 - **[Obtainium](https://f-droid.org/packages/dev.imranr.obtainium.fdroid/)** — Obtainium allows you to install and update Apps directly from their releases pages, and receive notifications when new releases are made available. `F-Droid`
 
@@ -120,7 +120,7 @@ Consider replacing the default F-Droid client with **[Neo Store](https://f-droid
 
 > *Windows to the web that do not spy back.*
 
-- **[Cromite](https://github.com/uazo/cromite)** — A hardened Chromium fork with built-in ad blocking and anti-fingerprinting. The spiritual successor to the beloved Bromite. For those who need or prefer a Chromium engine. Add Cromite's F-Droid repo, `https://www.cromite.org/fdroid/repo/?fingerprint=49F37E74DEE483DCA2B991334FB5A0200787430D0B5F9A783DD5F13695E9517B`, to the official F-Droid client, or enable it in the Neo Store client. `Own Repo`
+- **[Cromite](https://github.com/uazo/cromite)** — A hardened Chromium fork with built-in ad blocking and anti-fingerprinting. The spiritual successor to the beloved Bromite. For those who need or prefer a Chromium engine. Add Cromite's F-Droid repo, `https://www.cromite.org/fdroid/repo/?fingerprint=49F37E74DEE483DCA2B991334FB5A0200787430D0B5F9A783DD5F13695E9517B`, to the official F-Droid client, or enable it in the Drid-ify client. `Own Repo`
 
 - **[Fennec F-Droid](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/)** — Firefox for Android, rebuilt from source without proprietary telemetry and trackers. Supports extensions (uBlock Origin, etc.) — a feature no Chromium-based mobile browser currently matches. The reliable everyday browser for the widest site compatibility. `F-Droid`
 
@@ -270,7 +270,7 @@ Consider replacing the default F-Droid client with **[Neo Store](https://f-droid
 
 - **[OpenTracks](https://f-droid.org/packages/de.dennisguse.opentracks/)** — Record your outdoor activities — running, cycling, hiking, skiing — with GPS tracking, distance, speed, and elevation data. Entirely offline, no account, no cloud, no data harvesting. `F-Droid`
 
-- **[Quitter](https://f-droid.org/en/packages/com.quitter.app/)** — Quitter helps you quit smoking, vaping, alcohol, drugs, adult content, social media, and more — with research-backed health milestones that show exactly what's happening in your body as you recover.
+- **[Quitter](https://f-droid.org/en/packages/com.quitter.app/)** — Quitter helps you quit smoking, vaping, alcohol, drugs, adult content, social media, and more — with research-backed health milestones that show exactly what's happening in your body as you recover. `F-Droid`
 
 ---
 
@@ -310,6 +310,8 @@ Consider replacing the default F-Droid client with **[Neo Store](https://f-droid
 
 - **[Compass](https://f-droid.org/packages/com.bobek.compass/)** — A clean, accurate compass using your device's magnetometer. Simple, lightweight, and offline. `F-Droid`
 
+- **[GeoShare](https://f-droid.org/en/packages/page.ooooo.geoshare/)** — By opening map links in numerous map apps, GeoShare enables you to switch between different map service providers. `F-Droid`
+
 - **[Organic Maps](https://f-droid.org/packages/app.organicmaps/)** — Offline maps for the entire world, powered by OpenStreetMap data. Fast, battery-efficient, and beautiful. Walking, cycling, hiking, and driving navigation without any internet connection, telemetry, or ads. `F-Droid`
 
 - **[Trail Sense](https://f-droid.org/en/packages/com.kylecorry.trail_sense/)** — Use your Android phone's sensors to assist with wilderness treks or survival situations. Designed for entirely offline use. `F-Droid`
@@ -344,15 +346,17 @@ Consider replacing the default F-Droid client with **[Neo Store](https://f-droid
 
 > *See your network clearly. Control it completely.*
 
-- **[DNSNet](https://f-droid.org/en/packages/dev.clombardo.dnsnet/)** — A DNS-based ad and tracker blocker that operates as a local VPN, requiring no root. Customisable block lists and DNS resolver settings. `F-Droid`
-
 - **[LibreSpeed](https://f-droid.org/packages/com.dosse.speedtest/)** — A clean, open-source internet speed test using the LibreSpeed protocol — no Ookla, no Speedtest.net, no proprietary infrastructure. `F-Droid`
 
-- **[NetGuard](https://f-droid.org/packages/eu.faircode.netguard/)** — A no-root firewall that controls internet access on a per-app basis. Block any app from accessing Wi-Fi, mobile data, or both. Simple and extraordinarily powerful. `F-Droid`
+- **[Orbot](https://orbot.app/en/)** — Orbot is a Tor VPN/proxy for Tor on Android and iOS devices. Add Orbot's F-Droid repo, `https://guardianproject.info/fdroid/repo?fingerprint=B7C2EEFD8DAC7806AF67DFCD92EB18126BC08312A7F2D6F3862E46013C7A6135`, to the F-Droid client of your choice. `Own Repo`
 
 - **[PCAPdroid](https://f-droid.org/packages/com.emanuelef.remote_capture/)** — A network traffic analyser that shows exactly what your apps are transmitting and where. More inspector than blocker — indispensable for understanding what your device is doing behind your back. ⚠️ *Power-user tool.* `F-Droid`
 
+- **[RethinkDNS](https://f-droid.org/en/packages/com.celzero.bravedns/)** — RethinkDNS is the easiest way to monitor app activity, prevent apps from connecting to the internet, circumvent Internet censorship, block ads and trackers on your Android device. RethinkDNS has a one click setup for Orbot, but to use this feature, you must start Orbot in the proxy mode. `F-Droid` 
+
 - **[WiFiAnalyzer](https://f-droid.org/packages/com.vrem.wifianalyzer/)** — Scans nearby Wi-Fi networks, visualises signal strength, channel utilisation, and interference. An essential diagnostic tool for network troubleshooting. `F-Droid`
+
+- **[WG Tunnel](https://github.com/wgtunnel/fdroid)** — WG Tunnel is an alternative Android client for WireGuard and AmneziaWG, inspired by the official WireGuard Android app. It fills gaps in the official client by adding advanced features. Add WG Tunnel's F-Droid repo, `https://raw.githubusercontent.com/zaneschepke/fdroid/main/fdroid/repo?fingerprint=0890C5D44C0109E366801C39840325E810E21B270B9D2AEC53CE0D6C5FC849DB`, to the F-Droid client of your choice. `Own Repo`
 
 ---
 
@@ -380,8 +384,6 @@ Consider replacing the default F-Droid client with **[Neo Store](https://f-droid
 - **[App Manager](https://f-droid.org/packages/io.github.muntashirakon.AppManager/)** — A remarkably powerful package inspector and manager. Block app components, revoke permissions, intercept trackers, inspect APK signatures, manage running services, and much more. An essential tool for anyone serious about understanding what their apps are doing. ⚠️ *Power-user tool.* `F-Droid`
 
 - **[DroidFS](https://f-droid.org/packages/sushi.hardcore.droidfs/)** — Creates and opens encrypted virtual filesystems using gocryptfs or CryFS. Store sensitive files in an encrypted container on your device or in your cloud storage. ⚠️ *Power-user tool; some setup required.* `F-Droid`
-
-- **[WG Tunnel](https://github.com/wgtunnel/fdroid)** — WG Tunnel is an alternative Android client for WireGuard and AmneziaWG, inspired by the official WireGuard Android app. It fills gaps in the official client by adding advanced features. Add WG Tunnel's F-Droid repo, `https://raw.githubusercontent.com/zaneschepke/fdroid/main/fdroid/repo?fingerprint=0890C5D44C0109E366801C39840325E810E21B270B9D2AEC53CE0D6C5FC849DB`, to the F-Droid client of your choice. `Own Repo`
 
 ---
 
