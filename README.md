@@ -9,7 +9,7 @@ A curated collection of essential, free & open-source Android applications avail
 <br>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Apps](https://img.shields.io/badge/apps-110-brightgreen)
+![Apps](https://img.shields.io/badge/apps-113-brightgreen)
 ![License](https://img.shields.io/badge/license-CC0--1.0-blue)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-orange)
 ![F-Droid](https://img.shields.io/badge/F--Droid-1976D2?logo=f-droid&logoColor=white)
@@ -168,6 +168,8 @@ Consider replacing the default F-Droid client with **[Droid-ify](https://f-droid
 
 > *Make something.*
 
+- **[Com-Phone Story Maker](https://f-droid.org/en/packages/ac.robinson.mediaphone/)** — Com-Phone Story Maker can create multimedia narratives, combining photos, audio, and text to tell digital stories. It can send created stories to other devices running the application or play back locally; create templates; export as a movie; upload to YouTube; or save a web version to self-publish. `F-Droid`
+
 - **[OMGSoundboard](https://f-droid.org/en/packages/audio.omgsoundboard/)** — OMGSoundboard allows you to create your own unique soundboards. `F-Droid`
 
 - **[Pocket Paint](https://f-droid.org/packages/org.catrobat.paintroid/)** — A capable pixel art and drawing application with layers, fill tools, brushes, and export to PNG and JPG. The official image editor of the Catrobat creative toolkit. `F-Droid`
@@ -253,6 +255,8 @@ Consider replacing the default F-Droid client with **[Droid-ify](https://f-droid
 ## 🏃 Fitness & Health
 
 > *Your body's data belongs to your body.*
+
+- **[Broccoli](https://f-droid.org/en/packages/com.flauschcode.broccoli/)** — With Broccoli, one can create an unlimited amount of recipes, import recipes from websites, organize with categories and hashtags, access recipes offline, and back up recipes. It has a seasonal calendar built in. `F-Droid`
 
 - **[Energize](https://f-droid.org/packages/com.flasskamp.energize/)** — Track your food including calories, macro, and micro nutrients. `F-Droid`
 
@@ -384,6 +388,8 @@ Consider replacing the default F-Droid client with **[Droid-ify](https://f-droid
 - **[App Manager](https://f-droid.org/packages/io.github.muntashirakon.AppManager/)** — A remarkably powerful package inspector and manager. Block app components, revoke permissions, intercept trackers, inspect APK signatures, manage running services, and much more. An essential tool for anyone serious about understanding what their apps are doing. ⚠️ *Power-user tool.* `F-Droid`
 
 - **[DroidFS](https://f-droid.org/packages/sushi.hardcore.droidfs/)** — Creates and opens encrypted virtual filesystems using gocryptfs or CryFS. Store sensitive files in an encrypted container on your device or in your cloud storage. ⚠️ *Power-user tool; some setup required.* `F-Droid`
+
+- **[Permission Pilot](https://apt.izzysoft.de/fdroid/index/apk/eu.darken.myperm/)** — Permission Pilot lists all permissions in a single location, giving you a bird's eye view of app permissions. Two perspectives are available: You can either view all permissions an app requests, or view all apps that request a permission. `IzzyOnDroid`
 
 ---
 
