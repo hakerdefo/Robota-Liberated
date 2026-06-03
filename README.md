@@ -9,7 +9,7 @@ A curated collection of essential, free & open-source Android applications avail
 <br>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Apps](https://img.shields.io/badge/apps-113-brightgreen)
+![Apps](https://img.shields.io/badge/apps-114-brightgreen)
 ![License](https://img.shields.io/badge/license-CC0--1.0-blue)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-orange)
 ![F-Droid](https://img.shields.io/badge/F--Droid-1976D2?logo=f-droid&logoColor=white)
@@ -446,6 +446,8 @@ Consider replacing the default F-Droid client with **[Droid-ify](https://f-droid
 - **[Paperize](https://f-droid.org/en/packages/com.anthonyla.paperize/)** — An automated wallpaper changer that rotates through your chosen albums on a schedule. Thoughtfully designed with a beautiful interface. `F-Droid`
 
 - **[Screenshot Tile](https://f-droid.org/en/packages/com.github.cvzi.screenshottile/)** — Screenshot Tile for Android without Root. It adds a button/tile to the quick settings panel to take screenshots. `F-Droid`
+
+- **[Stay Put](https://f-droid.org/packages/org.y20k.stayput/)** — Stay Put is an app that helps prevent casual theft of your device while charging in public spaces. When you need to leave your phone unattended at a public charging spot, Stay Put acts as your guard. It sounds a loud alarm if someone unplugs your device, deterring potential theft. `F-Droid`
 
 - **[URL Checker](https://f-droid.org/packages/com.trianguloy.urlchecker/)** — Inspect and clean URLs before opening them. Strips tracking parameters, resolves redirects, and lets you choose which app opens a link — essential protection against link-based tracking. `F-Droid`
 
